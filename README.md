@@ -1,5 +1,3 @@
-# hello-world
+# Hello-World
 
-Hi there!
-
-This is my first GitHub repository
+Detta är den svenska versionen av "Hej värld!"
